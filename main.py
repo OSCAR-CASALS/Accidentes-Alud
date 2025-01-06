@@ -3,6 +3,9 @@ import pandas as pd
 from src.functions import create_map
 import folium
 
+# Page title
+st.set_page_config(page_title="Accidentes Alud")
+
 # Tile
 st.title("Accidentes Alud")
 
