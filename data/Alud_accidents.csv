@@ -1,281 +1,281 @@
-"","Dia","Mes","Any","Lloc","Grau_Perill","Tipus_Desencadenant","Origen","Mida","Membres","Arrossegats","Ferits","Morts","Activitat","lat","long"
-"1","22","06","2008","Pic d’Estaragne",-1,"Desconegut","Desconegut",NA,5,1,0,1,"Esquí de muntanya",42.7971603,0.1302987
-"2","21","06","2008","Glacera de l’Aneto",-1,"Desconegut","Desconegut",NA,NA,-1,1,-1,"Desconegut",42.63874785,0.649433785836238
-"3","07","06","2008","Luz-Saint-Sauveur",-1,"Desconegut","Desconegut",NA,2,2,0,2,"Excursionisme",42.8721142,-0.0043418
-"4","19","04","2008","Masella",2,"Desconegut","Desconegut",NA,3,1,0,0,"Esquí fora pista",42.351104,1.9012152
-"5","13","04","2008","Portillón Inferior",4,"Desconegut","Desconegut",NA,2,1,0,0,"Esquí de muntanya",42.6580894,0.6508751
-"6","12","04","2008","Pico Tesorero",-1,"Desconegut","Desconegut",NA,2,2,0,0,"Esquí de muntanya",43.1807792,-4.8410223
-"7","12","04","2008","Pico de la Padiorna",-1,"Desconegut","Desconegut",NA,2,2,1,0,"Esquí de muntanya",43.1558883,-4.8349367
-"8","12","04","2008","Horcados Rojos",-1,"Desconegut","Desconegut",NA,1,1,1,0,"Excursionisme",43.1804072456389,-4.83269969952508
-"9","03","04","2008","Teso de Son",2,"Placa (PL)","Accidental",NA,3,2,0,2,"Esquí de muntanya",42.8946744,-6.9959144
-"10","01","04","2008","Baqueira",3,"Desconegut","Desconegut",NA,1,1,1,0,"Esquí fora pista",42.6992676,0.9316411
-"11","24","03","2008","Tuc de Salana",3,"Desconegut","Desconegut",NA,2,0,0,0,"Esquí de muntanya",42.6468769,0.9084412
-"12","21","03","2008","Corrunco de Durro",2,"Desconegut","Desconegut",NA,2,0,0,0,"Esquí de muntanya",NA,NA
-"13","20","03","2008","Pic Midi de Bigorre",2,"Desconegut","Accidental",NA,4,4,0,4,"Alpinisme",42.9367764,0.1416107
-"14","28","02","2008","Pico de Elorrieta, Sierra Nevada",-1,"Desconegut","Desconegut",NA,4,1,0,1,"Esquí de muntanya",NA,NA
-"15","04","01","2008","Formigal",4,"Desconegut","Desconegut",NA,5,3,0,3,"Esquí fora pista",42.7741349,-0.3608611
-"16","23","12","2007","Pic de Sarrouyes",2,"Placa (PL)","Accidental",NA,6,3,2,1,"Raquetes",42.762786,0.3667855
-"17","14","12","2007","Malh Blanc de Tredòs",3,"Placa (PL)","Accidental",NA,6,1,1,0,"Esquí de muntanya",NA,NA
-"18","29","03","2009","Puig dels LLadres",3,"Placa (PL)","Desconegut",NA,2,-1,1,-1,"Esquí fora pista",41.9470617,2.1354913
-"19","13","03","2009","St Lary Soulan",-1,"Placa (PL)","Desconegut",NA,3,3,0,0,"Esquí fora pista",42.816936,0.3219538
-"20","08","03","2009","Pic de Bacivers",3,"Desconegut","Desconegut",NA,3,1,0,0,"Esquí de muntanya",42.4386996,2.2569345
-"21","08","03","2009","Pic de Sanfons",4,"Desconegut","Desconegut",NA,2,2,0,2,"Alpinisme",42.5874667,1.4276602
-"22","08","03","2009","Pic de Sanfons",3,"Placa (PL)","Accidental",3,2,2,0,2,"Raquetes",42.5874667,1.4276602
-"23","07","03","2009","Canal de Bedoll",4,"Placa (PL)","Accidental",NA,1,-1,1,-1,"Esquí fora pista",NA,NA
-"24","06","03","2009","Moncayo",-1,"Desconegut","Desconegut",NA,2,2,1,1,"Esquí de muntanya",41.7871633,-1.8397104
-"25","03","03","2009","Pic Sirvent",2,"Placa (PL)","Accidental",NA,NA,1,-1,-1,"Esquí de muntanya",42.4647462,1.6058163
-"26","07","02","2009","Costabona",3,"Placa (PL)","Desconegut",NA,1,1,0,1,"Raquetes",42.4168911,2.3439181
-"27","05","02","2009","Estanys de Gerber",3,"Placa (PL)","Accidental",NA,NA,1,-1,-1,"Esquí de muntanya",NA,NA
-"28","04","02","2009","Bastiments",3,"Placa (PL)","Desconegut",NA,2,1,1,0,"Esquí de muntanya",42.4262168,2.2328606
-"29","04","02","2009","Cervi",3,"Placa (PL)","Accidental",NA,NA,1,-1,-1,"Esquí fora pista",45.3870446,14.4517033
-"30","01","02","2009","Canal Amagada",3,"Desconegut","Natural",NA,NA,2,-1,0,"Alpinisme",42.4154784184071,2.25958337310919
-"31","01","02","2009","Canal de l'Àliga",3,"Placa (PL)","Natural",NA,4,4,1,-1,"Alpinisme",42.1816881642855,1.71155120692504
-"32","27","01","2009","Barèges",4,"Placa (PL)","Accidental",NA,2,2,1,1,"Esquí de muntanya",42.8958816,0.0622368
-"33","18","01","2009","Peñalara",-1,"Placa (PL)","Desconegut",NA,1,1,0,1,"Excursionisme",42.1317074,-3.4733835
-"34","12","01","2009","Peulla",3,"Placa (PL)","Accidental",1,1,1,0,0,"Taula fora pista",-41.0870868,-72.0208897
-"35","11","01","2009","Macizo de Mampodre",-1,"Placa (PL)","Desconegut",NA,2,1,1,1,"Alpinisme",NA,NA
-"36","20","12","2008","Lac Blaou del Pic de Thoumasset",4,"Desconegut","Desconegut",NA,4,2,0,0,"Esquí de muntanya",NA,NA
-"37","20","12","2008","Eina",-1,"Desconegut","Desconegut",NA,2,2,1,1,"Esquí de muntanya",60.57278295,10.6376652915929
-"38","07","12","2008","Vessant Sud del Salvaguardia",-1,"Desconegut","Desconegut",NA,2,1,0,1,"Excursionisme",NA,NA
-"39","01","12","2008","Sierra Nevada",-1,"Placa (PL)","Accidental",NA,3,3,1,0,"Esquí fora pista",36.58,-118.3
-"40","30","11","2008","Torrent de Set Fonts",2,"Desconegut","Desconegut",NA,NA,1,1,0,"Taula fora pista",42.326208880531,1.9082456390326
-"41","30","11","2008","Estivella",2,"Placa (PL)","Accidental",NA,8,2,0,0,"Esquí de muntanya",39.7133707,-0.3485272
-"42","30","11","2008","Pic de Montmalús",-1,"Placa (PL)","Accidental",1.5,3,1,0,0,"Esquí de muntanya",NA,NA
-"43","16","05","2010","Via normal grieta peña Rubia",-1,"Desconegut","Desconegut",NA,1,1,0,1,"Alpinisme",NA,NA
-"44","25","04","2010","Canal de l'Ordiguer",2,"Desconegut","Desconegut",NA,1,2,0,1,"Alpinisme",42.2905128444619,1.65849891640241
-"45","27","03","2010","Ibones Azules",-1,"Desconegut","Desconegut",NA,4,2,1,0,"Esquí de muntanya",42.78914775,-0.249785244413919
-"46","20","03","2010","Gra de Fajol",2,"Placa (PL)","Accidental",NA,3,2,2,0,"Alpinisme",42.4154767,2.2477545
-"47","19","03","2010","Candanchú",-1,"Desconegut","Desconegut",NA,7,4,1,1,"Alpinisme",42.78888865,-0.52873445
-"48","20","02","2010","Cambre d'Aze",4,"Desconegut","Desconegut",NA,1,1,0,0,"Esquí fora pista",42.4520719,2.1320081
-"49","18","02","2010","Cerler",4,"Desconegut","Desconegut",NA,1,1,0,0,"Esquí fora pista",42.5927404,0.5384221
-"50","14","02","2010","Ivón de Coronas",-1,"Desconegut","Desconegut",NA,2,2,2,0,"Desconegut",NA,NA
-"51","10","02","2010","Midi de Bigorre",3,"Desconegut","Desconegut",NA,2,1,0,1,"Taula fora pista",42.9367764,0.1416107
-"52","10","02","2010","Coma de Ransol",3,"Desconegut","Desconegut",NA,1,1,0,1,"Esquí de muntanya",42.61205295,1.63788270294118
-"53","09","02","2010","Ransol",3,"Placa (PL)","Accidental",NA,1,1,0,1,"Esquí de muntanya",42.5816768,1.6374847
-"54","07","02","2010","Peguera",2,"Placa (PL)","Desconegut",NA,4,2,0,0,"Esquí de muntanya",42.1602241,1.7719518
-"55","03","02","2010","Cavallers",2,"Desconegut","Natural",NA,2,4,1,2,"Alpinisme",34.7570601,36.2948074234977
-"56","02","02","2010","Formigal",-1,"Desconegut","Accidental",NA,1,1,0,0,"Esquí fora pista",42.7741349,-0.3608611
-"57","02","02","2010","Portalet",-1,"Desconegut","Desconegut",NA,3,2,0,1,"Esquí de muntanya",45.9916074,7.0560731
-"58","31","01","2010","Alta Garona",4,"Desconegut","Desconegut",NA,NA,1,0,1,"Esquí fora pista",43.3054546,0.971679170190158
-"59","31","01","2010","Candanchú",-1,"Desconegut","Desconegut",NA,3,1,0,0,"Esquí de muntanya",42.78888865,-0.52873445
-"60","16","01","2010","Astún",4,"Desconegut","Desconegut",NA,1,1,0,0,"Esquí fora pista",42.5693297,-0.5514431
-"61","16","01","2010","Ariege",4,"Desconegut","Accidental",NA,4,4,2,0,"Esquí de muntanya",42.9455368,1.40655441560655
-"62","15","01","2010","Masella",3,"Desconegut","Accidental",NA,3,3,1,0,"Taula fora pista",42.351104,1.9012152
-"63","09","01","2010","La Collarada",-1,"Desconegut","Desconegut",NA,3,3,0,3,"Esquí de muntanya",41.3050894,-4.681329
-"64","06","01","2010","Canal de l’Ordiguer",3,"Placa (PL)","Desconegut",NA,1,1,0,0,"Alpinisme",42.2905128444619,1.65849891640241
-"65","06","01","2010","Bastiments",-1,"Placa (PL)","Desconegut",NA,NA,-1,-1,-1,"Altres",42.4262168,2.2328606
-"66","01","12","2009","Astún",4,"Desconegut","Desconegut",NA,3,3,2,0,"Esquí de muntanya",42.5693297,-0.5514431
-"67","19","03","2011","Serra Mitjana",4,"Placa (PL)","Accidental",2.5,3,1,0,0,"Moto de neu",38.3821584,-0.5963101
-"68","13","03","2011","Coma Oriola (Masella)",3,"Desconegut","Accidental",NA,4,1,1,0,"Esquí fora pista",42.350218744841,1.89367771516173
-"69","13","03","2011","Vall de Moró",4,"Placa (PL)","Accidental",NA,2,1,0,0,"Esquí fora pista",41.3288329,0.6947565
-"70","10","03","2011","Estany Flamisella",3,"Placa (PL)","Accidental",NA,2,1,1,0,"Esquí de muntanya",42.70420405,1.25391730095741
-"71","05","03","2011","Porté-Puymorens",3,"Desconegut","Desconegut",NA,3,1,1,0,"Esquí fora pista",42.5488878,1.833462
-"72","04","03","2011","Cara N Baqueira",4,"Desconegut","Desconegut",NA,1,1,1,0,"Taula fora pista",NA,NA
-"73","24","02","2011","Sorteny",4,"Placa (PL)","Accidental",1,3,2,0,0,"Esquí de muntanya",42.6210573624728,1.56231386090263
-"74","21","02","2011","Barranco de San Juan",-1,"Desconegut","Desconegut",NA,3,3,1,1,"Excursionisme",28.4903896,-16.3888643
-"75","20","02","2011","Col de Peyresourde",4,"Desconegut","Desconegut",NA,NA,2,0,2,"Raquetes",42.8023062,0.463075
-"76","23","01","2011","Normal de sabocos",-1,"Desconegut","Desconegut",NA,2,2,0,1,"Alpinisme",NA,NA
-"77","26","12","2010","Montmalús",2,"Desconegut (null)","Accidental",NA,2,2,1,0,"Esquí de muntanya",42.5089556,1.6865628
-"78","04","12","2010","Cara este Monte Anboto",-1,"Desconegut","Desconegut",NA,3,3,3,0,"Alpinisme",NA,NA
-"79","06","04","2012","Vallée du Lys",-1,"Desconegut","Natural",NA,5,2,1,1,"Excursionisme",42.7465148,0.5682854
-"80","28","02","2012","Petrechema",2,"Placa (PL)","Desconegut",NA,1,1,0,1,"Excursionisme",42.9029735,-0.7326009
-"81","18","02","2012","Tuc d'Arres",-1,"Placa (PL)","Accidental",NA,6,2,0,0,"Esquí de muntanya",42.7730688,0.7400483
-"82","18","02","2012","La Mongie",-1,"Placa (PL)","Accidental",NA,1,1,0,1,"Esquí fora pista",42.9119184,0.1776751
-"83","08","02","2012","Montcorbisson",3,"Placa (PL)","Accidental",NA,2,2,0,1,"Esquí de muntanya",41.4538227340807,1.95776731279395
-"84","19","05","2013","Bretxa Pic d'Alba",-1,"Desconegut","Desconegut",NA,3,1,0,0,"Esquí de muntanya",NA,NA
-"85","28","04","2013","Cara nord del Cadí",2,"Desconegut","Desconegut",NA,2,2,0,2,"Alpinisme",NA,NA
-"86","07","04","2013","Moncayo",-1,"Desconegut","Desconegut",NA,6,6,1,0,"Excursionisme",41.7871633,-1.8397104
-"87","25","03","2013","Formigal",-1,"Placa (PL)","Accidental",NA,3,3,0,1,"Esquí de pista",42.7741349,-0.3608611
-"88","15","03","2013","La Serrera",4,"Placa (PL)","Accidental",NA,2,2,1,1,"Esquí de muntanya",42.1266049,0.1244642
-"89","15","03","2013","Bagneres de Bigorre",4,"Placa (PL)","Accidental",NA,1,1,0,1,"Esquí fora pista",43.0658212,0.1530914
-"90","15","03","2013","Pic de la Serrera",3,"Placa (PL)","Accidental",3,2,2,1,1,"Esquí de muntanya",42.6255422,1.6025216
-"91","09","03","2013","Dos hermanas",3,"Desconegut","Desconegut",NA,3,1,1,0,"Alpinisme",37.283689,-5.9226718
-"92","05","03","2013","Saint Lary",-1,"Desconegut","Desconegut",NA,10,6,3,0,"Excursionisme",43.7237873,0.5000984
-"93","02","03","2013","Cambradase",-1,"Desconegut","Desconegut",NA,3,2,0,0,"Esquí de muntanya",NA,NA
-"94","11","02","2013","Tanau",4,"Desconegut","Natural",NA,1,1,1,0,"Altres",48.8691177,9.7876361
-"95","02","01","2013","Gourette",2,"Placa (PL)","Desconegut",NA,2,1,0,1,"Esquí fora pista",42.9438107,-0.329129499830564
-"96","01","01","2013","Garmo Negro",-1,"Placa (PL)","Desconegut",NA,7,3,2,0,"Excursionisme",42.7716445,-0.2641782
-"97","06","12","2012","Piau Engaly",4,"Placa (PL)","Accidental",NA,5,3,2,0,"Esquí fora pista",42.78020745,0.158613506509143
-"98","06","04","2014","Puigmal",3,"Placa (PL)","Accidental",NA,10,0,0,0,"Esquí de muntanya",42.3832668,2.1167923
-"99","17","02","2014","Pico Bóveda",-1,"Placa (PL)","Accidental",NA,2,1,0,1,"Alpinisme",42.9200072,-6.4897499
-"100","30","01","2014","Xemeneies",3,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí de muntanya",41.3743346,2.1721051477871
-"101","26","01","2014","Puigmal",3,"Placa (PL)","Accidental",NA,10,0,0,0,"Esquí de muntanya",42.3832668,2.1167923
-"102","26","01","2014","Vall de Campcardós",3,"Desconegut","Desconegut",NA,6,4,0,0,"Esquí de muntanya",NA,NA
-"103","24","01","2014","Els Argulls, Baqueira Beret",4,"Desconegut","Desconegut",NA,4,2,2,0,"Treballant",NA,NA
-"104","23","01","2014","Puigmal",3,"Placa (PL)","Desconegut",NA,3,2,1,0,"Esquí de muntanya",42.3832668,2.1167923
-"105","21","01","2014","La Carbassa",3,"Desconegut","Desconegut",NA,1,1,0,0,"Esquí de muntanya",42.4530092,1.7269651
-"106","21","01","2014","Pico Gallinero",4,"Desconegut","Accidental",NA,3,1,1,-1,"Esquí fora pista",42.6695346,-0.0588105
-"107","26","12","2013","Soldeu",-1,"Desconegut","Accidental",NA,3,1,0,1,"Esquí fora pista",42.5768944,1.6682694
-"108","25","12","2013","Soldeu",4,"Placa (PL)","Accidental",NA,3,1,0,1,"Taula fora pista",42.5768944,1.6682694
-"109","25","03","2015","Coll d'Amitges",3,"Placa (PL)","Accidental",NA,3,3,0,0,"Esquí de muntanya",42.6098038,0.983053
-"110","17","03","2015","Montardo",2,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí de muntanya",42.6333384,0.8753441
-"111","02","02","2015","Blanhiblar",4,"Placa (PL)","Accidental",NA,2,2,1,0,"Taula fora pista",42.7209097,0.9409232
-"112","30","01","2015","Pleta de Molières-Port de Vielha",4,"Puntual (PU)","Accidental",NA,1,1,-1,0,"Esquí de muntanya",NA,NA
-"113","25","01","2015","Blanhiblar",3,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí fora pista",42.7209097,0.9409232
-"114","28","12","2014","Baqueira-Perdiu Blanca",3,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí fora pista",NA,NA
-"115","17","12","2014","Arcalís",3,"Desconegut (null)","Accidental",NA,1,1,1,0,"Esquí fora pista",42.3539369,1.0838851
-"116","10","04","2016","Canal est del Bacivèr",2,"Puntual (PU)","Natural",NA,2,2,0,0,"Esquí de muntanya",NA,NA
-"117","05","04","2016","Pico Pacino",3,"Placa (PL)","Desconegut",NA,3,3,0,0,"Raquetes",42.7525813,-0.3398176
-"118","27","03","2016","Pineta",3,"Puntual (PU)","Natural",NA,2,2,0,1,"Excursionisme",46.4388589,11.3468279
-"119","21","03","2016","Peña Telera",3,"Placa (PL)","Desconegut",NA,2,2,2,0,"Alpinisme",42.6911117,-0.3739644
-"120","10","03","2016","Jacetania",4,"Placa (PL)","Accidental",NA,5,5,0,0,"Desconegut",42.66976815,-0.745875537429112
-"121","08","03","2016","Jacetania",3,"Placa (PL)","Accidental",NA,2,2,0,0,"Esquí fora pista",42.66976815,-0.745875537429112
-"122","06","03","2016","Jacetania",3,"Placa (PL)","Accidental",NA,1,1,1,0,"Esquí fora pista",42.66976815,-0.745875537429112
-"123","03","03","2016","Jacetania",3,"Placa (PL)","Desconegut",NA,3,3,0,0,"Esquí fora pista",42.66976815,-0.745875537429112
-"124","27","02","2016","Circo de San Miguel",-1,"Placa (PL)","Desconegut",NA,2,2,2,0,"Excursionisme",41.7841262,-1.8342453
-"125","16","02","2016","Jacetania",4,"Placa (PL)","Desconegut",NA,NA,-1,-1,-1,"Esquí fora pista",42.66976815,-0.745875537429112
-"126","21","01","2016","Valdezcaray",-1,"Placa (PL)","Desconegut",NA,1,1,0,1,"Esquí de muntanya",42.2525462,-2.96930473579937
-"127","18","01","2016","Cigalera",3,"Placa (PL)","Accidental",NA,1,1,0,0,"Taula de muntanya",42.8465709,0.6806103
-"128","17","01","2016","Astún",3,"Placa (PL)","Accidental",NA,3,1,1,0,"Esquí fora pista",42.5693297,-0.5514431
-"129","17","01","2016","La Cigalera",3,"Placa (PL)","Accidental",NA,1,-1,-1,-1,"Taula de muntanya",42.6713913,0.9943243
-"130","17","01","2016","Candanchú",3,"Placa (PL)","Desconegut",NA,2,-1,-1,-1,"Esquí fora pista",42.78888865,-0.52873445
-"131","17","01","2016","Chía",3,"Puntual (PU)","Desconegut",NA,NA,1,1,0,"Alpinisme",42.5206948,0.465951
-"132","16","01","2016","Jacetania",3,"Placa (PL)","Desconegut",NA,2,2,1,0,"Esquí fora pista",42.66976815,-0.745875537429112
-"133","16","01","2016","Baciver",3,"Placa (PL)","Accidental",NA,4,-1,-1,-1,"Esquí de muntanya",42.545678,0.6065751
-"134","16","01","2016","Jacetania",3,"Placa (PL)","Desconegut",NA,NA,-1,-1,-1,"Esquí fora pista",42.66976815,-0.745875537429112
-"135","09","01","2016","Maladeta",2,"Placa (PL)","Accidental",NA,10,10,0,0,"Esquí de muntanya",41.52662665,2.06876865
-"136","06","01","2016","Jacetania",2,"Placa (PL)","Accidental",NA,1,1,-1,-1,"Taula fora pista",42.66976815,-0.745875537429112
-"137","05","01","2016","Jacetania",3,"Placa (PL)","Accidental",NA,NA,-1,0,0,"Esquí fora pista",42.66976815,-0.745875537429112
-"138","09","02","2017","Barranc dera Laveja",3,"Placa (PL)","Accidental",NA,1,1,0,1,"Esquí fora pista",42.7451645866932,0.9881424164178
-"139","28","01","2017","Coma Pregona",4,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí fora pista",42.2005404,1.5751957
-"140","09","01","2017","Coma de l’Estany. Vall de Filià",2,"Placa (PL)","Accidental",NA,2,2,0,0,"Esquí de muntanya",NA,NA
-"141","04","01","2017","Canal Sàbat",1,"Placa (PL)","Accidental",NA,NA,0,1,0,"Excursionisme",41.6082234270784,60.5191289484696
-"142","12","12","2016","Gra de Fajol Petit",1,"Placa (PL)","Accidental",NA,1,1,1,0,"Excursionisme",42.4132936,2.2596558
-"143","10","04","2018","Arinsal",3,"Placa (PL)","Accidental",1.5,1,1,0,0,"Esquí fora pista",42.5720821,1.4844029
-"144","25","03","2018","Torrent de Set Fonts o del Suís",4,"Placa (PL)","Accidental",NA,2,2,0,0,"Esquí fora pista",NA,NA
-"145","24","03","2018","Coma Pregona",4,"Placa (PL)","Accidental",NA,2,2,0,0,"Esquí de pista",42.2005404,1.5751957
-"146","22","03","2018","Conangles",3,"Placa (PL)","Accidental",NA,3,3,1,2,"Esquí de muntanya",42.6263203,0.7844567
-"147","18","03","2018","Arinsal",2,"Placa (PL)","Accidental",3,6,3,0,0,"Esquí fora pista",42.5720821,1.4844029
-"148","11","03","2018","Canal de l'Ordiguer",3,"Placa (PL)","Accidental",NA,1,1,1,0,"Alpinisme",42.2905128444619,1.65849891640241
-"149","01","03","2018","Arcalís",4,"Placa (PL)","Accidental",3,2,2,1,1,"Esquí de muntanya",42.3539369,1.0838851
-"150","20","02","2018","Bony d'Envalira",4,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí de muntanya",42.5184628,1.7073205
-"151","11","02","2018","Canal de l'os",3,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí de muntanya",52.4369348,16.9190539428701
-"152","11","02","2018","Muntanya del Estanyets",3,"Placa (PL)","Accidental",NA,1,1,0,0,"Taula fora pista",NA,NA
-"153","10","02","2018","Les Agudes (Massís del Montseny)",-1,"Placa (PL)","Accidental",NA,3,3,3,0,"Alpinisme",NA,NA
-"154","07","02","2018","Coll de la Marrana",3,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí de muntanya",42.4171585,2.2425775
-"155","04","02","2018","Coll de Certascan",3,"Placa (PL)","Accidental",NA,5,2,1,0,"Esquí de muntanya",42.7058707,1.2811144
-"156","27","01","2018","Comabella",3,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí fora pista",41.7494247,1.3455074
-"157","16","01","2018","Portella de Rialb",2,"Placa (PL)","Accidental",1,3,2,0,0,"Esquí de muntanya",42.6403037,1.5362166
-"158","16","01","2018","Tossa d'Incles",2,"Placa (PL)","Desconegut",1.5,NA,1,0,0,"Esquí de muntanya",NA,NA
-"159","12","01","2018","Pic de la Coma del Forn",2,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí de muntanya",42.6779011,1.1901862
-"160","12","01","2018","Campirme",2,"Placa (PL)","Accidental",NA,NA,-1,0,0,"Esquí de muntanya",42.659518,1.193646
-"161","04","01","2018","Solana de la Carma",2,"Puntual (PU)","Natural",NA,1,1,0,0,"Raquetes",42.5698536,0.8273686
-"162","03","12","2017","Tuc de la Cigalera",3,"Placa (PL)","Accidental",NA,1,1,1,0,"Esquí fora pista",42.6713913,0.9943243
-"163","04","05","2019","Coll de la Marrana",2,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí de muntanya",42.4171585,2.2425775
-"164","18","04","2019","W Pico Tempestades. Corredor Magadeta",-1,"Placa (PL)","Accidental",2,2,2,0,0,"Esquí de muntanya",NA,NA
-"165","13","04","2019","Coll de l’Estany Gelat",2,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí de muntanya",42.6146613,0.9836227
-"166","13","04","2019","Pic d'Anrodat",3,"Placa (PL)","Accidental",3,3,1,0,0,"Esquí de muntanya",42.6248785,1.6826526
-"167","11","04","2019","Arcalís",2,"Puntual (PU)","Accidental",1,3,1,1,0,"Esquí fora pista",42.3539369,1.0838851
-"168","06","02","2019","Tuc de la Llança",2,"Placa (PL)","Accidental",NA,3,3,1,0,"Esquí de muntanya",42.684072,0.9905228
-"169","03","02","2019","Sorteny",3,"Placa (PL)","Accidental",3,3,3,3,0,"Esquí de muntanya",42.6210573624728,1.56231386090263
-"170","26","01","2019","La Vinheta",3,"Placa (PL)","Accidental",NA,1,1,0,1,"Esquí fora pista",NA,NA
-"171","26","01","2019","Grau Roig",4,"Placa (PL)","Accidental",1.5,4,1,1,0,"Esquí de muntanya",42.5368991,1.7017913
-"172","26","01","2019","Pas de la Casa",4,"Placa (PL)","Accidental",1,6,1,0,0,"Esquí fora pista",42.5447098,1.733494
-"173","17","12","2018","Clots de Massat",2,"Desconegut (null)","Accidental",2,1,1,1,0,"Raquetes",42.56822655,1.69602795793938
-"174","01","12","2018","Pas de la Casa",-1,"Placa (PL)","Accidental",1.5,1,1,0,0,"Esquí fora pista",42.5447098,1.733494
-"175","12","03","2020","Pic de Sudorn",2,"Placa (PL)","Accidental",NA,2,2,0,0,"Esquí de muntanya",42.5350269,1.0485497
-"176","10","03","2020","Tuc de Vacivèr",3,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí fora pista",NA,NA
-"177","08","03","2020","Estany del Diable",3,"Placa (PL)","Accidental",NA,1,1,0,0,"Taula de muntanya",42.6681546,1.19446603616055
-"178","08","03","2020","Tuc de Beret",3,"Placa (PL)","Accidental",NA,NA,0,0,0,"Esquí de muntanya",42.7236243,1.0048948
-"179","08","03","2020","Tuc de Beret",3,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí de muntanya",42.7236243,1.0048948
-"180","03","03","2020","La Vinheta",3,"Placa (PL)","Accidental",NA,2,2,1,1,"Taula fora pista",NA,NA
-"181","23","12","2019","Gra de Fajol",3,"Placa (PL)","Accidental",NA,2,2,2,0,"Alpinisme",42.4154767,2.2477545
-"182","21","12","2019","Coll de la Marrana",3,"Placa (PL)","Accidental",NA,1,1,0,0,"Alpinisme",42.4171585,2.2425775
-"183","10","12","2019","Sendrosa-Aubeta",3,"Placa (PL)","Accidental",NA,1,1,1,0,"Esquí de muntanya",NA,NA
-"184","10","12","2019","Vall de Gerber",3,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí de muntanya",42.6327784,0.9958486
-"185","10","12","2019","Molières",3,"Placa (PL)","Accidental",NA,1,1,1,0,"Esquí de muntanya",44.8106395,0.823878
-"186","10","12","2019","Arcalís",3,"Placa (PL)","Accidental",2,5,2,0,0,"Esquí fora pista",42.3539369,1.0838851
-"187","23","11","2019","Coll de la Marrana",3,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí de muntanya",42.4171585,2.2425775
-"188","23","11","2021","Orreaga, collado de Lepoeder",-1,"Placa (PL)","Accidental",1,NA,1,0,0,"Esquí de muntanya",NA,NA
-"189","08","05","2021","Corredor Estasen, Aneto",-1,"Desconegut","Desconegut",NA,4,4,4,0,"Alpinisme",NA,NA
-"190","05","05","2021","Taillon",-1,"Puntual (PU)","Natural",2,1,1,1,0,"Esquí de muntanya",43.7909318,-0.2345685
-"191","18","04","2021","Pico Veleta",-1,"Placa (PL)","Accidental",2,2,1,0,0,"Esquí de muntanya",37.0560211,-3.3656885
-"192","29","03","2021","Tristaina",1,"Placa (PL)","Accidental",2,16,1,0,0,"Esquí de muntanya",42.6534813,1.4937644
-"193","20","03","2021","Locampo",2,"Placa (PL)","Accidental",1,3,2,1,0,"Esquí de muntanya",42.6284645,0.9780135
-"194","20","03","2021","Cap del Muntanyó d'Àrreu",2,"Placa (PL)","Accidental",2,1,1,0,0,"Esquí de muntanya",42.6807005,0.9986299
-"195","13","02","2021","Montjoia_Artiga de Lin",1,"Placa (PL)","Accidental",2,5,2,1,0,"Taula de muntanya",NA,NA
-"196","13","02","2021","Tort de Rius",1,"Placa (PL)","Accidental",2,2,1,0,0,"Esquí de muntanya",42.63160785,0.81490320304763
-"197","02","02","2021","Canal SW Prat del Duc inferior",1,"Placa (PL)","Accidental",1,1,1,0,0,"Esquí de muntanya",NA,NA
-"198","02","02","2021","Canal SW Prat del Duc superior",1,"Placa (PL)","Accidental",1,1,1,0,0,"Esquí de muntanya",NA,NA
-"199","02","02","2021","Port del Rat",3,"Placa (PL)","Accidental",1.5,8,3,0,0,"Esquí fora pista",NA,NA
-"200","31","01","2021","Estany-Mascarida",3,"Placa (PL)","Accidental",2,2,2,0,0,"Taula de muntanya",42.66795335,1.19598257775168
-"201","26","01","2021","Estació d'esquí de Luz Ardiden (tancada)",3,"Placa (PL)","Desconegut",2,1,1,0,1,"Esquí de muntanya",NA,NA
-"202","26","01","2021","Tuc de Vacivèr",2,"Placa (PL)","Accidental",2,2,1,0,0,"Taula de muntanya",NA,NA
-"203","26","01","2021","Forn de Sorteny",3,"Placa (PL)","Accidental",2,3,1,0,0,"Esquí de muntanya",NA,NA
-"204","24","01","2021","Montmalús",3,"Placa (PL)","Accidental",2,9,2,0,0,"Esquí de muntanya",42.5089556,1.6865628
-"205","16","01","2021","Maià",2,"Placa (PL)","Accidental",2,NA,1,0,0,"Moto de neu",41.23734565,-8.62999817336433
-"206","16","01","2021","Forn (Sorteny)",2,"Placa (PL)","Accidental",2,3,1,0,0,"Desconegut",NA,NA
-"207","16","01","2021","Pic del Maià",3,"Placa (PL)","Accidental",2,1,1,0,0,"Moto de neu",NA,NA
-"208","12","01","2021","Pic Blanc",1,"Placa (PL)","Accidental",NA,2,1,1,0,"Esquí de muntanya",45.1251943,6.1276239
-"209","12","01","2021","Pic Blanc d'Envalira",2,"Placa (PL)","Accidental",2,2,1,0,0,"Esquí de muntanya",NA,NA
-"210","11","01","2021","Forat dels Malhiverns",2,"Placa (PL)","Accidental",2,1,1,0,0,"Esquí de muntanya",NA,NA
-"211","08","01","2021","Petrechema",1,"Placa (PL)","Accidental",1,2,1,0,0,"Esquí de muntanya",42.9029735,-0.7326009
-"212","03","01","2021","Comes de Rubió",1,"Placa (PL)","Accidental",1,NA,1,0,0,"Esquí de muntanya",42.4121227,1.233748
-"213","23","04","2022","Pic de Piau",3,"Placa (PL)","Accidental",2,5,1,0,0,"Esquí de muntanya",42.77523986931,0.152736957451001
-"214","16","04","2022","Besiberri Nord",2,"Placa (PL)","Accidental",1.5,2,1,0,0,"Esquí de muntanya",42.605262,0.8263044
-"215","04","04","2022","Cap Vaquèira-Vinheta",3,"Placa (PL)","Accidental",2,3,1,0,1,"Esquí fora pista",NA,NA
-"216","04","04","2022","Olla del Bacivèr",3,"Placa (PL)","Accidental",2,4,3,1,0,"Taula fora pista",NA,NA
-"217","03","04","2022","Pic Blanc",3,"Placa (PL)","Accidental",2,1,1,0,0,"Esquí fora pista",45.1251943,6.1276239
-"218","03","04","2022","Coma del Forn",3,"Placa (PL)","Accidental",1.5,1,1,0,0,"Esquí de muntanya",41.5772335,1.3871683
-"219","03","04","2022","Coma del Forn",3,"Placa (PL)","Accidental",1.5,1,1,0,0,"Esquí de muntanya",41.5772335,1.3871683
-"220","03","04","2022","Pic Blanc",3,"Placa (PL)","Accidental",2,2,1,0,0,"Esquí fora pista",45.1251943,6.1276239
-"221","02","04","2022","Baciver - Paletes de la Reina",4,"Placa (PL)","Accidental",2,1,1,0,0,"Esquí fora pista",NA,NA
-"222","01","04","2022","Hoyo sin tierra",2,"Placa (PL)","Accidental",NA,5,3,-1,0,"Esquí de muntanya",43.169902,-4.825862
-"223","15","03","2022","Serra Seca",3,"Placa (PL)","Accidental",2,4,1,0,0,"Esquí de muntanya",-8.9219157,-40.1640845
-"224","15","03","2022","Soldeu",3,"Placa (PL)","Accidental",3,2,2,0,0,"Taula fora pista",42.5768944,1.6682694
-"225","15","03","2022","El Tarter",3,"Placa (PL)","Accidental",2,2,2,0,0,"Taula fora pista",42.5803334,1.6496963
-"226","15","03","2022","Pic de Serra Seca",3,"Placa (PL)","Accidental",1.5,4,1,0,0,"Esquí de muntanya",42.507357,1.7077969
-"227","11","03","2022","Bacivèr",2,"Puntual (PU)","Accidental",1,2,1,0,0,"Esquí fora pista",42.8346845,0.8206165
-"228","11","03","2022","Agulles Travessani",3,"Placa (PL)","Accidental",2,8,7,0,0,"Esquí de muntanya",42.6090276,0.8876624
-"229","10","03","2022","Gavarnie",3,"Desconegut","Natural",2,2,1,0,1,"Alpinisme",42.7322036,-0.0093524
-"230","21","02","2022","Pic de Ratera",2,"Placa (PL)","Accidental",1,5,3,0,0,"Esquí de muntanya",42.6013495,0.9534013
-"231","21","02","2022","Pica Cervi de Durro",2,"Placa (PL)","Accidental",2,1,1,0,0,"Esquí fora pista",42.461181,0.8665228
-"232","16","01","2022","Saslosses (Val d'Aran)",2,"Placa (PL)","Accidental",1,2,1,0,0,"Esquí de muntanya",42.6321638,0.9003482
-"233","03","12","2021","Bc. de Astún",3,"Placa (PL)","Accidental",2,2,1,0,-1,"Esquí de muntanya",40.4655661396402,-3.77529185921161
-"234","28","11","2021","Roques Blanques-Pic de la Dona",3,"Placa (PL)","Desconegut",2.5,1,1,-1,1,"Alpinisme",NA,NA
-"235","25","11","2021","Puigmal",3,"Placa (PL)","Accidental",2,2,1,0,0,"Esquí de muntanya",42.3832668,2.1167923
-"236","04","03","2023","Pico Arriel",3,"Placa (PL)","Accidental",NA,4,1,1,0,"Desconegut",42.834117,-0.3312968
-"237","02","03","2023","Pic de l'Hortell",2,"Placa (PL)","Accidental",2,3,1,0,0,"Esquí fora pista",42.6192717,1.509009
-"238","27","02","2023","Vulturó",2,"Placa (PL)","Accidental",1.5,NA,1,0,0,"Esquí de muntanya",42.2857753,1.6364247
-"239","26","02","2023","Cambra d'Ase",3,"Placa (PL)","Accidental",NA,2,1,0,0,"Esquí de muntanya",42.4520719,2.1320081
-"240","26","02","2023","Gra de Fajol",3,"Desconegut (null)","Accidental",2.5,2,2,1,0,"Alpinisme",42.4154767,2.2477545
-"241","25","02","2023","Tuc de la Cigalera",3,"Placa (PL)","Accidental",1,2,1,0,0,"Esquí de muntanya",42.6713913,0.9943243
-"242","25","02","2023","Pico Brazato",3,"Placa (PL)","Accidental",2,3,1,0,0,"Esquí de muntanya",42.740739,-0.1998678
-"243","25","02","2023","Pico Foratula",3,"Placa (PL)","Accidental",2,1,1,0,0,"Esquí de muntanya",42.7431617,-0.2261409
-"244","25","02","2023","Pic de la Mina",4,"Placa (PL)","Accidental",NA,3,2,1,0,"Esquí de muntanya",42.5351324,1.7686007
-"245","25","02","2023","Pic Saint André",3,"Desconegut (null)","Accidental",NA,3,3,1,0,"Esquí de muntanya",44.5684187,6.6089988
-"246","24","02","2023","Pic de la Mina",3,"Placa (PL)","Accidental",2,3,1,0,0,"Esquí de muntanya",42.5351324,1.7686007
-"247","19","02","2023","Picón de Jeres",-1,"Placa (PL)","Accidental",2,2,2,0,0,"Alpinisme",37.1239197,-3.2530133
-"248","18","02","2023","Picón de Jeres",-1,"Placa (PL)","Accidental",2,2,2,2,0,"Alpinisme",37.1239197,-3.2530133
-"249","15","02","2023","Saslòses (Val d'Aran)",2,"Placa (PL)","Accidental",2,2,1,0,0,"Esquí de muntanya",NA,NA
-"250","28","01","2023","Bachimaña",3,"Placa (PL)","Accidental",2,9,2,0,0,"Esquí de muntanya",42.1346764,-0.4087439
-"251","24","01","2023","Pic de l'Hortell",3,"Placa (PL)","Accidental",2,2,1,0,0,"Esquí de muntanya",42.6192717,1.509009
-"252","20","01","2023","Bonaigua",3,"Placa (PL)","Accidental",2,2,1,0,0,"Esquí fora pista",42.6635129,0.9824531
-"253","18","01","2023","Cap de Vaqueira",3,"Placa (PL)","Accidental",2,2,2,2,0,"Esquí fora pista",42.6918997,0.9742364
-"254","10","01","2023","Peña Santa de Castilla",-1,"Placa (PL)","Accidental",NA,2,1,0,0,"Alpinisme",43.2019178,-4.9622805
-"255","10","01","2023","Campirme",2,"Placa (PL)","Accidental",2.5,6,1,0,-1,"Esquí de muntanya",42.659518,1.193646
-"256","19","12","2022","Pico de Argualas",2,"Placa (PL)","Accidental",NA,6,1,0,0,"Esquí de muntanya",NA,NA
-"257","18","12","2022","Salvaguardia, canal W",2,"Placa (PL)","Accidental",1,1,1,0,0,"Alpinisme",NA,NA
-"258","12","12","2022","Port Vell",-1,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí de muntanya",41.37009315,2.18546812522905
-"259","30","11","2022","Cap des Clòsos",2,"Placa (PL)","Accidental",NA,4,1,0,0,"Esquí de muntanya",42.747536,0.9333722
-"260","29","11","2022","Escornacrabes",2,"Placa (PL)","Accidental",NA,2,2,0,0,"Esquí fora pista",42.6839142,0.9865532
-"261","08","05","2024","Pique Longue du Vignemale",2,"Placa (PL)","Accidental",1,2,2,0,0,"Esquí de muntanya",NA,NA
-"262","03","05","2024","Aneto",3,"Placa (PL)","Accidental",2,NA,1,0,0,"Esquí de muntanya",42.6310731,0.6566457
-"263","28","03","2024","Colouir N Pic de Font Freda",3,"Placa (PL)","Accidental",NA,2,1,1,0,"Esquí de muntanya",NA,NA
-"264","25","03","2024","Tuca de Literola",3,"Placa (PL)","Accidental",2,2,1,1,0,"Esquí de muntanya",42.6988654,0.5228297
-"265","24","03","2024","Torrent de la Balma",2,"Placa (PL)","Natural",1,1,1,0,1,"Excursionisme",42.3826573263197,2.1910830491546
-"266","10","03","2024","Pic de la Mine",3,"Placa (PL)","Accidental",NA,4,3,0,0,"Esquí de muntanya",42.6939374,0.6480506
-"267","09","03","2024","Astún. Pastores",3,"Placa (PL)","Accidental",2,3,3,0,0,"Esquí de pista",42.8050191913789,-0.507344570840561
-"268","05","03","2024","Pic de l'Estanyó",3,"Placa (PL)","Accidental",2.5,13,5,0,0,"Esquí de muntanya",42.6086785,1.5926138
-"269","28","02","2024","Pic du Midi",4,"Placa (PL)","Accidental",2,1,1,1,0,"Taula de muntanya",42.811723,1.9934532
-"270","28","02","2024","Astún. Llanos del Sol",3,"Placa (PL)","Accidental",2,2,1,0,0,"Esquí de pista",NA,NA
-"271","28","02","2024","Astún. Llanos del Sol",3,"Placa (PL)","Accidental",2,3,3,0,0,"Esquí de pista",NA,NA
-"272","28","02","2024","Arcalís",3,"Placa (PL)","Accidental",2,2,1,1,0,"Esquí fora pista",42.3539369,1.0838851
-"273","11","02","2024","Tuc Gran de Sendrosa",2,"Placa (PL)","Accidental",1,2,1,1,0,"Esquí de muntanya",42.6239225,0.9468533
-"274","13","01","2024","Pico Aspe",3,"Placa (PL)","Accidental",1,2,2,0,1,"Alpinisme",43.1342395,2.4425965
-"275","09","01","2024","Baser Negre",2,"Placa (PL)","Accidental",1.5,2,1,0,0,"Taula de muntanya",40.9934054,39.6711447
-"276","08","01","2024","Malh Blanc de Tredòs",3,"Placa (PL)","Accidental",2,5,1,1,0,"Esquí de muntanya",NA,NA
-"277","06","01","2024","Astún. Malacara",2,"Placa (PL)","Desconegut",1,2,2,0,0,"Esquí de pista",42.8123237,-0.4791279
-"278","07","12","2023","Refugi Sarradets",2,"Placa (PL)","Accidental",1.5,1,1,0,0,"Esquí de muntanya",NA,NA
-"279","03","12","2023","Ref Pòrt de Vénasque",2,"Placa (PL)","Desconegut",NA,2,2,0,0,"Raquetes",NA,NA
-"280","03","12","2023","Midi de Bigorra",2,"Puntual (PU)","Accidental",2,5,1,1,0,"Esquí de muntanya",42.9367764,0.1416107
+"","ID","Dia","Mes","Any","Lloc","Grau_Perill","Tipus_Desencadenant","Origen","Mida","Membres","Arrossegats","Ferits","Morts","Activitat","lat","long"
+"1",331,"22","06","2008","Pic d’Estaragne",-1,"Desconegut","Desconegut",NA,5,1,0,1,"Esquí de muntanya",42.796949,0.129656
+"2",341,"21","06","2008","Glacera de l’Aneto",-1,"Desconegut","Desconegut",NA,NA,-1,1,-1,"Desconegut",42.635919,0.65372
+"3",364,"07","06","2008","Luz-Saint-Sauveur",-1,"Desconegut","Desconegut",NA,2,2,0,2,"Excursionisme",42.87148,-0.009318
+"4",223,"19","04","2008","Masella",2,"Desconegut","Desconegut",NA,3,1,0,0,"Esquí fora pista",42.323968,1.91617
+"5",324,"13","04","2008","Portillón Inferior",4,"Desconegut","Desconegut",NA,2,1,0,0,"Esquí de muntanya",42.654635,0.64656
+"6",337,"12","04","2008","Pico Tesorero",-1,"Desconegut","Desconegut",NA,2,2,0,0,"Esquí de muntanya",43.180561,-4.840878
+"7",338,"12","04","2008","Pico de la Padiorna",-1,"Desconegut","Desconegut",NA,2,2,1,0,"Esquí de muntanya",43.155839,-4.834926
+"8",339,"12","04","2008","Horcados Rojos",-1,"Desconegut","Desconegut",NA,1,1,1,0,"Excursionisme",43.178756,-4.831456
+"9",218,"03","04","2008","Teso de Son",2,"Placa (PL)","Accidental",NA,3,2,0,2,"Esquí de muntanya",42.609153,1.040336
+"10",294,"01","04","2008","Baqueira",3,"Desconegut","Desconegut",NA,1,1,1,0,"Esquí fora pista",42.68486,0.979867
+"11",295,"24","03","2008","Tuc de Salana",3,"Desconegut","Desconegut",NA,2,0,0,0,"Esquí de muntanya",42.647259,0.90837
+"12",235,"21","03","2008","Corrunco de Durro",2,"Desconegut","Desconegut",NA,2,0,0,0,"Esquí de muntanya",42.462361,0.828713
+"13",213,"20","03","2008","Pic Midi de Bigorre",2,"Desconegut","Accidental",NA,4,4,0,4,"Alpinisme",42.938055,0.140243
+"14",336,"28","02","2008","Pico de Elorrieta, Sierra Nevada",-1,"Desconegut","Desconegut",NA,4,1,0,1,"Esquí de muntanya",37.043723,-3.389781
+"15",312,"04","01","2008","Formigal",4,"Desconegut","Desconegut",NA,5,3,0,3,"Esquí fora pista",42.788184,-0.436644
+"16",226,"23","12","2007","Pic de Sarrouyes",2,"Placa (PL)","Accidental",NA,6,3,2,1,"Raquetes",42.758846,0.375197
+"17",245,"14","12","2007","Malh Blanc de Tredòs",3,"Placa (PL)","Accidental",NA,6,1,1,0,"Esquí de muntanya",42.656783,0.946327
+"18",300,"29","03","2009","Puig dels LLadres",3,"Placa (PL)","Desconegut",NA,2,-1,1,-1,"Esquí fora pista",42.420484,2.261329
+"19",347,"13","03","2009","St Lary Soulan",-1,"Placa (PL)","Desconegut",NA,3,3,0,0,"Esquí fora pista",42.827841,0.244997
+"20",296,"08","03","2009","Pic de Bacivers",3,"Desconegut","Desconegut",NA,3,1,0,0,"Esquí de muntanya",42.436452,2.231799
+"21",302,"08","03","2009","Pic de Sanfons",4,"Desconegut","Desconegut",NA,2,2,0,2,"Alpinisme",42.5872873516857,1.42781490251039
+"22",469,"08","03","2009","Pic de Sanfons",3,"Placa (PL)","Accidental",3,2,2,0,2,"Raquetes",42.5870872921334,1.42830364500794
+"23",434,"07","03","2009","Canal de Bedoll",4,"Placa (PL)","Accidental",NA,1,-1,1,-1,"Esquí fora pista",42.6738983502383,1.21214383560829
+"24",344,"06","03","2009","Moncayo",-1,"Desconegut","Desconegut",NA,2,2,1,1,"Esquí de muntanya",41.786043,-1.836239
+"25",431,"03","03","2009","Pic Sirvent",2,"Placa (PL)","Accidental",NA,NA,1,-1,-1,"Esquí de muntanya",42.4644438197951,1.60392770764314
+"26",262,"07","02","2009","Costabona",3,"Placa (PL)","Desconegut",NA,1,1,0,1,"Raquetes",42.414158,2.341264
+"27",433,"05","02","2009","Estanys de Gerber",3,"Placa (PL)","Accidental",NA,NA,1,-1,-1,"Esquí de muntanya",42.6282160971423,0.990572855744292
+"28",248,"04","02","2009","Bastiments",3,"Placa (PL)","Desconegut",NA,2,1,1,0,"Esquí de muntanya",42.427162,2.238719
+"29",432,"04","02","2009","Cervi",3,"Placa (PL)","Accidental",NA,NA,1,-1,-1,"Esquí fora pista",42.4635243560328,0.86615524361592
+"30",237,"01","02","2009","Canal Amagada",3,"Desconegut","Natural",NA,NA,2,-1,0,"Alpinisme",42.286797,1.666727
+"31",430,"01","02","2009","Canal de l'Àliga",3,"Placa (PL)","Natural",NA,4,4,1,-1,"Alpinisme",42.2845254901041,1.67003820914752
+"32",307,"27","01","2009","Barèges",4,"Placa (PL)","Accidental",NA,2,2,1,1,"Esquí de muntanya",42.931174,0.135993
+"33",335,"18","01","2009","Peñalara",-1,"Placa (PL)","Desconegut",NA,1,1,0,1,"Excursionisme",40.848954,-3.955074
+"34",291,"12","01","2009","Peulla",3,"Placa (PL)","Accidental",1,1,1,0,0,"Taula fora pista",42.6513685964284,0.989729299343241
+"35",340,"11","01","2009","Macizo de Mampodre",-1,"Placa (PL)","Desconegut",NA,2,1,1,1,"Alpinisme",43.025892,-5.199206
+"36",328,"20","12","2008","Lac Blaou del Pic de Thoumasset",4,"Desconegut","Desconegut",NA,4,2,0,0,"Esquí de muntanya",42.653317,1.582898
+"37",365,"20","12","2008","Eina",-1,"Desconegut","Desconegut",NA,2,2,1,1,"Esquí de muntanya",42.468252,2.112193
+"38",329,"07","12","2008","Vessant Sud del Salvaguardia",-1,"Desconegut","Desconegut",NA,2,1,0,1,"Excursionisme",42.692782,0.635911
+"39",330,"01","12","2008","Sierra Nevada",-1,"Placa (PL)","Accidental",NA,3,3,1,0,"Esquí fora pista",37.057332,-3.372579
+"40",221,"30","11","2008","Torrent de Set Fonts",2,"Desconegut","Desconegut",NA,NA,1,1,0,"Taula fora pista",42.326292,1.90968
+"41",429,"30","11","2008","Estivella",2,"Placa (PL)","Accidental",NA,8,2,0,0,"Esquí de muntanya",42.1880579038132,1.53096720279924
+"42",470,"30","11","2008","Pic de Montmalús",-1,"Placa (PL)","Accidental",1.5,3,1,0,0,"Esquí de muntanya",42.5114945112697,1.68728152107603
+"43",361,"16","05","2010","Via normal grieta peña Rubia",-1,"Desconegut","Desconegut",NA,1,1,0,1,"Alpinisme",43.212874,-4.974105
+"44",233,"25","04","2010","Canal de l'Ordiguer",2,"Desconegut","Desconegut",NA,1,2,0,1,"Alpinisme",42.285401,1.653442
+"45",357,"27","03","2010","Ibones Azules",-1,"Desconegut","Desconegut",NA,4,2,1,0,"Esquí de muntanya",42.78866,-0.243704
+"46",216,"20","03","2010","Gra de Fajol",2,"Placa (PL)","Accidental",NA,3,2,2,0,"Alpinisme",42.415911,2.24812
+"47",356,"19","03","2010","Candanchú",-1,"Desconegut","Desconegut",NA,7,4,1,1,"Alpinisme",42.7587,-0.534147
+"48",311,"20","02","2010","Cambre d'Aze",4,"Desconegut","Desconegut",NA,1,1,0,0,"Esquí fora pista",42.462748,2.119171
+"49",314,"18","02","2010","Cerler",4,"Desconegut","Desconegut",NA,1,1,0,0,"Esquí fora pista",42.564051,0.554922
+"50",358,"14","02","2010","Ivón de Coronas",-1,"Desconegut","Desconegut",NA,2,2,2,0,"Desconegut",42.62894,0.641011
+"51",263,"10","02","2010","Midi de Bigorre",3,"Desconegut","Desconegut",NA,2,1,0,1,"Taula fora pista",42.932459,0.139057
+"52",293,"10","02","2010","Coma de Ransol",3,"Desconegut","Desconegut",NA,1,1,0,1,"Esquí de muntanya",42.610516,1.624271
+"53",468,"09","02","2010","Ransol",3,"Placa (PL)","Accidental",NA,1,1,0,1,"Esquí de muntanya",42.6158649718889,1.62797620538076
+"54",236,"07","02","2010","Peguera",2,"Placa (PL)","Desconegut",NA,4,2,0,0,"Esquí de muntanya",42.144332,1.762617
+"55",212,"03","02","2010","Cavallers",2,"Desconegut","Natural",NA,2,4,1,2,"Alpinisme",42.583891,0.845495
+"56",351,"02","02","2010","Formigal",-1,"Desconegut","Accidental",NA,1,1,0,0,"Esquí fora pista",42.79314,-0.433653
+"57",366,"02","02","2010","Portalet",-1,"Desconegut","Desconegut",NA,3,2,0,1,"Esquí de muntanya",42.806446,-0.416842
+"58",316,"31","01","2010","Alta Garona",4,"Desconegut","Desconegut",NA,NA,1,0,1,"Esquí fora pista",42.909499,0.769369
+"59",352,"31","01","2010","Candanchú",-1,"Desconegut","Desconegut",NA,3,1,0,0,"Esquí de muntanya",42.781235,-0.548001
+"60",313,"16","01","2010","Astún",4,"Desconegut","Desconegut",NA,1,1,0,0,"Esquí fora pista",42.802693,-0.507602
+"61",321,"16","01","2010","Ariege",4,"Desconegut","Accidental",NA,4,4,2,0,"Esquí de muntanya",42.840854,1.743505
+"62",259,"15","01","2010","Masella",3,"Desconegut","Accidental",NA,3,3,1,0,"Taula fora pista",42.322052,1.894284
+"63",362,"09","01","2010","La Collarada",-1,"Desconegut","Desconegut",NA,3,3,0,3,"Esquí de muntanya",42.713963,-0.47194
+"64",292,"06","01","2010","Canal de l’Ordiguer",3,"Placa (PL)","Desconegut",NA,1,1,0,0,"Alpinisme",42.285374,1.653498
+"65",363,"06","01","2010","Bastiments",-1,"Placa (PL)","Desconegut",NA,NA,-1,-1,-1,"Altres",42.425848,2.233647
+"66",325,"01","12","2009","Astún",4,"Desconegut","Desconegut",NA,3,3,2,0,"Esquí de muntanya",42.804316,-0.498056
+"67",465,"19","03","2011","Serra Mitjana",4,"Placa (PL)","Accidental",2.5,3,1,0,0,"Moto de neu",42.4688047414407,1.61542315117149
+"68",253,"13","03","2011","Coma Oriola (Masella)",3,"Desconegut","Accidental",NA,4,1,1,0,"Esquí fora pista",42.32725,0.189208
+"69",305,"13","03","2011","Vall de Moró",4,"Placa (PL)","Accidental",NA,2,1,0,0,"Esquí fora pista",42.48131,0.895953
+"70",266,"10","03","2011","Estany Flamisella",3,"Placa (PL)","Accidental",NA,2,1,1,0,"Esquí de muntanya",42.705516,1.255896
+"71",265,"05","03","2011","Porté-Puymorens",3,"Desconegut","Desconegut",NA,3,1,1,0,"Esquí fora pista",42.54716,1.79191
+"72",310,"04","03","2011","Cara N Baqueira",4,"Desconegut","Desconegut",NA,1,1,1,0,"Taula fora pista",42.696702,0.97134
+"73",466,"24","02","2011","Sorteny",4,"Placa (PL)","Accidental",1,3,2,0,0,"Esquí de muntanya",42.6090113408715,1.57285503966542
+"74",368,"21","02","2011","Barranco de San Juan",-1,"Desconegut","Desconegut",NA,3,3,1,1,"Excursionisme",37.13477,-3.38119
+"75",327,"20","02","2011","Col de Peyresourde",4,"Desconegut","Desconegut",NA,NA,2,0,2,"Raquetes",42.784431,0.458842
+"76",353,"23","01","2011","Normal de sabocos",-1,"Desconegut","Desconegut",NA,2,2,0,1,"Alpinisme",42.679241,-0.251699
+"77",467,"26","12","2010","Montmalús",2,"Desconegut (null)","Accidental",NA,2,2,1,0,"Esquí de muntanya",42.507729869369,1.69220705959241
+"78",345,"04","12","2010","Cara este Monte Anboto",-1,"Desconegut","Desconegut",NA,3,3,3,0,"Alpinisme",43.08888,-2.596045
+"79",355,"06","04","2012","Vallée du Lys",-1,"Desconegut","Natural",NA,5,2,1,1,"Excursionisme",42.741929,0.560622
+"80",234,"28","02","2012","Petrechema",2,"Placa (PL)","Desconegut",NA,1,1,0,1,"Excursionisme",42.901912,-0.733785
+"81",348,"18","02","2012","Tuc d'Arres",-1,"Placa (PL)","Accidental",NA,6,2,0,0,"Esquí de muntanya",42.749043,0.653595
+"82",349,"18","02","2012","La Mongie",-1,"Placa (PL)","Accidental",NA,1,1,0,1,"Esquí fora pista",42.904789,0.178208
+"83",251,"08","02","2012","Montcorbisson",3,"Placa (PL)","Accidental",NA,2,2,0,1,"Esquí de muntanya",42.71118,0.764544
+"84",359,"19","05","2013","Bretxa Pic d'Alba",-1,"Desconegut","Desconegut",NA,3,1,0,0,"Esquí de muntanya",42.655759,0.622804
+"85",215,"28","04","2013","Cara nord del Cadí",2,"Desconegut","Desconegut",NA,2,2,0,2,"Alpinisme",42.284558,1.657214
+"86",343,"07","04","2013","Moncayo",-1,"Desconegut","Desconegut",NA,6,6,1,0,"Excursionisme",41.785899,-1.833247
+"87",346,"25","03","2013","Formigal",-1,"Placa (PL)","Accidental",NA,3,3,0,1,"Esquí de pista",42.784851,-0.419372
+"88",301,"15","03","2013","La Serrera",4,"Placa (PL)","Accidental",NA,2,2,1,1,"Esquí de muntanya",42.624564,1.60134
+"89",308,"15","03","2013","Bagneres de Bigorre",4,"Placa (PL)","Accidental",NA,1,1,0,1,"Esquí fora pista",42.931525,0.128904
+"90",464,"15","03","2013","Pic de la Serrera",3,"Placa (PL)","Accidental",3,2,2,1,1,"Esquí de muntanya",42.6245493654683,1.60241801460731
+"91",285,"09","03","2013","Dos hermanas",3,"Desconegut","Desconegut",NA,3,1,1,0,"Alpinisme",40.838336,-3.964539
+"92",354,"05","03","2013","Saint Lary",-1,"Desconegut","Desconegut",NA,10,6,3,0,"Excursionisme",42.819261,0.324764
+"93",367,"02","03","2013","Cambradase",-1,"Desconegut","Desconegut",NA,3,2,0,0,"Esquí de muntanya",42.45563,2.127858
+"94",323,"11","02","2013","Tanau",4,"Desconegut","Natural",NA,1,1,1,0,"Altres",42.70286,0.939772
+"95",222,"02","01","2013","Gourette",2,"Placa (PL)","Desconegut",NA,2,1,0,1,"Esquí fora pista",42.932324,-0.338182
+"96",360,"01","01","2013","Garmo Negro",-1,"Placa (PL)","Desconegut",NA,7,3,2,0,"Excursionisme",42.770327,-0.26772
+"97",304,"06","12","2012","Piau Engaly",4,"Placa (PL)","Accidental",NA,5,3,2,0,"Esquí fora pista",42.770149,0.146096
+"98",243,"06","04","2014","Puigmal",3,"Placa (PL)","Accidental",NA,10,0,0,0,"Esquí de muntanya",42.376775,2.088035
+"99",342,"17","02","2014","Pico Bóveda",-1,"Placa (PL)","Accidental",NA,2,1,0,1,"Alpinisme",43.047,-4.3884
+"100",270,"30","01","2014","Xemeneies",3,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí de muntanya",42.433509,2.252473
+"101",279,"26","01","2014","Puigmal",3,"Placa (PL)","Accidental",NA,10,0,0,0,"Esquí de muntanya",42.382072,2.118613
+"102",299,"26","01","2014","Vall de Campcardós",3,"Desconegut","Desconegut",NA,6,4,0,0,"Esquí de muntanya",42.507833,1.777912
+"103",326,"24","01","2014","Els Argulls, Baqueira Beret",4,"Desconegut","Desconegut",NA,4,2,2,0,"Treballant",42.684397,0.965595
+"104",298,"23","01","2014","Puigmal",3,"Placa (PL)","Desconegut",NA,3,2,1,0,"Esquí de muntanya",42.382072,2.118613
+"105",297,"21","01","2014","La Carbassa",3,"Desconegut","Desconegut",NA,1,1,0,0,"Esquí de muntanya",42.452742,1.727821
+"106",309,"21","01","2014","Pico Gallinero",4,"Desconegut","Accidental",NA,3,1,1,-1,"Esquí fora pista",42.5437,0.551517
+"107",350,"26","12","2013","Soldeu",-1,"Desconegut","Accidental",NA,3,1,0,1,"Esquí fora pista",42.561345,1.655942
+"108",463,"25","12","2013","Soldeu",4,"Placa (PL)","Accidental",NA,3,1,0,1,"Taula fora pista",42.5597820201627,1.65688952743057
+"109",247,"25","03","2015","Coll d'Amitges",3,"Placa (PL)","Accidental",NA,3,3,0,0,"Esquí de muntanya",42.607585,0.989662
+"110",231,"17","03","2015","Montardo",2,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí de muntanya",42.632623,0.87496
+"111",317,"02","02","2015","Blanhiblar",4,"Placa (PL)","Accidental",NA,2,2,1,0,"Taula fora pista",42.722681,0.944691
+"112",320,"30","01","2015","Pleta de Molières-Port de Vielha",4,"Puntual (PU)","Accidental",NA,1,1,-1,0,"Esquí de muntanya",42.634301,0.75251
+"113",252,"25","01","2015","Blanhiblar",3,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí fora pista",42.722681,0.944691
+"114",249,"28","12","2014","Baqueira-Perdiu Blanca",3,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí fora pista",42.6971,0.952346
+"115",462,"17","12","2014","Arcalís",3,"Desconegut (null)","Accidental",NA,1,1,1,0,"Esquí fora pista",42.6370527642445,1.47441071008856
+"116",232,"10","04","2016","Canal est del Bacivèr",2,"Puntual (PU)","Natural",NA,2,2,0,0,"Esquí de muntanya",42.712993,0.993592
+"117",241,"05","04","2016","Pico Pacino",3,"Placa (PL)","Desconegut",NA,3,3,0,0,"Raquetes",42.751428,-0.339013
+"118",290,"27","03","2016","Pineta",3,"Puntual (PU)","Natural",NA,2,2,0,1,"Excursionisme",42.685302,0.50436
+"119",242,"21","03","2016","Peña Telera",3,"Placa (PL)","Desconegut",NA,2,2,2,0,"Alpinisme",42.691266,-0.370856
+"120",319,"10","03","2016","Jacetania",4,"Placa (PL)","Accidental",NA,5,5,0,0,"Desconegut",42.794155,-0.422588
+"121",277,"08","03","2016","Jacetania",3,"Placa (PL)","Accidental",NA,2,2,0,0,"Esquí fora pista",42.794155,-0.422588
+"122",276,"06","03","2016","Jacetania",3,"Placa (PL)","Accidental",NA,1,1,1,0,"Esquí fora pista",42.794155,-0.422588
+"123",288,"03","03","2016","Jacetania",3,"Placa (PL)","Desconegut",NA,3,3,0,0,"Esquí fora pista",42.794155,-0.422588
+"124",334,"27","02","2016","Circo de San Miguel",-1,"Placa (PL)","Desconegut",NA,2,2,2,0,"Excursionisme",41.787615,-1.844866
+"125",322,"16","02","2016","Jacetania",4,"Placa (PL)","Desconegut",NA,NA,-1,-1,-1,"Esquí fora pista",42.794155,-0.422588
+"126",333,"21","01","2016","Valdezcaray",-1,"Placa (PL)","Desconegut",NA,1,1,0,1,"Esquí de muntanya",42.243331,-2.972688
+"127",280,"18","01","2016","Cigalera",3,"Placa (PL)","Accidental",NA,1,1,0,0,"Taula de muntanya",42.671225,0.99377
+"128",258,"17","01","2016","Astún",3,"Placa (PL)","Accidental",NA,3,1,1,0,"Esquí fora pista",42.809172,-0.491143
+"129",278,"17","01","2016","La Cigalera",3,"Placa (PL)","Accidental",NA,1,-1,-1,-1,"Taula de muntanya",42.671225,0.99377
+"130",287,"17","01","2016","Candanchú",3,"Placa (PL)","Desconegut",NA,2,-1,-1,-1,"Esquí fora pista",42.778118,-0.537333
+"131",289,"17","01","2016","Chía",3,"Puntual (PU)","Desconegut",NA,NA,1,1,0,"Alpinisme",42.695259,0.97174
+"132",261,"16","01","2016","Jacetania",3,"Placa (PL)","Desconegut",NA,2,2,1,0,"Esquí fora pista",42.794155,-0.422588
+"133",284,"16","01","2016","Baciver",3,"Placa (PL)","Accidental",NA,4,-1,-1,-1,"Esquí de muntanya",42.712534,0.991209
+"134",286,"16","01","2016","Jacetania",3,"Placa (PL)","Desconegut",NA,NA,-1,-1,-1,"Esquí fora pista",42.794155,-0.422588
+"135",214,"09","01","2016","Maladeta",2,"Placa (PL)","Accidental",NA,10,10,0,0,"Esquí de muntanya",42.647197,0.64022
+"136",220,"06","01","2016","Jacetania",2,"Placa (PL)","Accidental",NA,1,1,-1,-1,"Taula fora pista",42.794155,-0.422588
+"137",257,"05","01","2016","Jacetania",3,"Placa (PL)","Accidental",NA,NA,-1,0,0,"Esquí fora pista",42.794155,-0.422588
+"138",244,"09","02","2017","Barranc dera Laveja",3,"Placa (PL)","Accidental",NA,1,1,0,1,"Esquí fora pista",42.737803,0.985915
+"139",303,"28","01","2017","Coma Pregona",4,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí fora pista",42.326983,1.900613
+"140",217,"09","01","2017","Coma de l’Estany. Vall de Filià",2,"Placa (PL)","Accidental",NA,2,2,0,0,"Esquí de muntanya",42.454713,0.91796
+"141",211,"04","01","2017","Canal Sàbat",1,"Placa (PL)","Accidental",NA,NA,0,1,0,"Excursionisme",42.286085,1.654374
+"142",210,"12","12","2016","Gra de Fajol Petit",1,"Placa (PL)","Accidental",NA,1,1,1,0,"Excursionisme",42.414608,2.260048
+"143",456,"10","04","2018","Arinsal",3,"Placa (PL)","Accidental",1.5,1,1,0,0,"Esquí fora pista",42.5650923148641,1.44993180884295
+"144",318,"25","03","2018","Torrent de Set Fonts o del Suís",4,"Placa (PL)","Accidental",NA,2,2,0,0,"Esquí fora pista",42.250331,1.695235
+"145",306,"24","03","2018","Coma Pregona",4,"Placa (PL)","Accidental",NA,2,2,0,0,"Esquí de pista",42.327396,0.897486
+"146",238,"22","03","2018","Conangles",3,"Placa (PL)","Accidental",NA,3,3,1,2,"Esquí de muntanya",42.632476,0.782819
+"147",457,"18","03","2018","Arinsal",2,"Placa (PL)","Accidental",3,6,3,0,0,"Esquí fora pista",42.5632274414321,1.45574100800961
+"148",272,"11","03","2018","Canal de l'Ordiguer",3,"Placa (PL)","Accidental",NA,1,1,1,0,"Alpinisme",42.287427,1.655332
+"149",458,"01","03","2018","Arcalís",4,"Placa (PL)","Accidental",3,2,2,1,1,"Esquí de muntanya",42.6299172938445,1.47123316624995
+"150",459,"20","02","2018","Bony d'Envalira",4,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí de muntanya",42.5162711674548,1.7092750712726
+"151",267,"11","02","2018","Canal de l'os",3,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí de muntanya",42.67691,1.219594
+"152",269,"11","02","2018","Muntanya del Estanyets",3,"Placa (PL)","Accidental",NA,1,1,0,0,"Taula fora pista",42.552375,0.989787
+"153",332,"10","02","2018","Les Agudes (Massís del Montseny)",-1,"Placa (PL)","Accidental",NA,3,3,3,0,"Alpinisme",41.789832,2.445474
+"154",271,"07","02","2018","Coll de la Marrana",3,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí de muntanya",42.417527,2.243593
+"155",246,"04","02","2018","Coll de Certascan",3,"Placa (PL)","Accidental",NA,5,2,1,0,"Esquí de muntanya",42.709404,1.274527
+"156",250,"27","01","2018","Comabella",3,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí fora pista",42.319643,1.923743
+"157",460,"16","01","2018","Portella de Rialb",2,"Placa (PL)","Accidental",1,3,2,0,0,"Esquí de muntanya",42.6402413604066,1.53557006085043
+"158",461,"16","01","2018","Tossa d'Incles",2,"Placa (PL)","Desconegut",1.5,NA,1,0,0,"Esquí de muntanya",42.5807676906943,1.69310901494233
+"159",225,"12","01","2018","Pic de la Coma del Forn",2,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí de muntanya",42.677636,1.190628
+"160",227,"12","01","2018","Campirme",2,"Placa (PL)","Accidental",NA,NA,-1,0,0,"Esquí de muntanya",42.662878,1.196625
+"161",224,"04","01","2018","Solana de la Carma",2,"Puntual (PU)","Natural",NA,1,1,0,0,"Raquetes",42.570152,0.824808
+"162",254,"03","12","2017","Tuc de la Cigalera",3,"Placa (PL)","Accidental",NA,1,1,1,0,"Esquí fora pista",42.670897,0.993596
+"163",229,"04","05","2019","Coll de la Marrana",2,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí de muntanya",42.417121,2.242709
+"164",372,"18","04","2019","W Pico Tempestades. Corredor Magadeta",-1,"Placa (PL)","Accidental",2,2,2,0,0,"Esquí de muntanya",42.624899,0.661801
+"165",228,"13","04","2019","Coll de l’Estany Gelat",2,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí de muntanya",42.614599,0.983647
+"166",449,"13","04","2019","Pic d'Anrodat",3,"Placa (PL)","Accidental",3,3,1,0,0,"Esquí de muntanya",42.6236967695409,1.68031258124558
+"167",450,"11","04","2019","Arcalís",2,"Puntual (PU)","Accidental",1,3,1,1,0,"Esquí fora pista",42.6187388507648,1.48793950271557
+"168",219,"06","02","2019","Tuc de la Llança",2,"Placa (PL)","Accidental",NA,3,3,1,0,"Esquí de muntanya",42.682668,0.992107
+"169",451,"03","02","2019","Sorteny",3,"Placa (PL)","Accidental",3,3,3,3,0,"Esquí de muntanya",42.6051262289445,1.57380358818295
+"170",255,"26","01","2019","La Vinheta",3,"Placa (PL)","Accidental",NA,1,1,0,1,"Esquí fora pista",42.69638,0.426964
+"171",452,"26","01","2019","Grau Roig",4,"Placa (PL)","Accidental",1.5,4,1,1,0,"Esquí de muntanya",42.5247480423482,1.70493434443424
+"172",453,"26","01","2019","Pas de la Casa",4,"Placa (PL)","Accidental",1,6,1,0,0,"Esquí fora pista",42.5329707771267,1.72137184656498
+"173",454,"17","12","2018","Clots de Massat",2,"Desconegut (null)","Accidental",2,1,1,1,0,"Raquetes",42.5757115483155,1.70257638314417
+"174",455,"01","12","2018","Pas de la Casa",-1,"Placa (PL)","Accidental",1.5,1,1,0,0,"Esquí fora pista",42.5274363631943,1.7228912496931
+"175",230,"12","03","2020","Pic de Sudorn",2,"Placa (PL)","Accidental",NA,2,2,0,0,"Esquí de muntanya",42.535812,1.049188
+"176",260,"10","03","2020","Tuc de Vacivèr",3,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí fora pista",42.713003,0.991212
+"177",268,"08","03","2020","Estany del Diable",3,"Placa (PL)","Accidental",NA,1,1,0,0,"Taula de muntanya",42.668246,1.194258
+"178",275,"08","03","2020","Tuc de Beret",3,"Placa (PL)","Accidental",NA,NA,0,0,0,"Esquí de muntanya",42.723402,1.004706
+"179",283,"08","03","2020","Tuc de Beret",3,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí de muntanya",42.723402,1.004706
+"180",256,"03","03","2020","La Vinheta",3,"Placa (PL)","Accidental",NA,2,2,1,1,"Taula fora pista",42.69638,0.426964
+"181",240,"23","12","2019","Gra de Fajol",3,"Placa (PL)","Accidental",NA,2,2,2,0,"Alpinisme",42.416553,2.247858
+"182",274,"21","12","2019","Coll de la Marrana",3,"Placa (PL)","Accidental",NA,1,1,0,0,"Alpinisme",42.416979,2.242926
+"183",239,"10","12","2019","Sendrosa-Aubeta",3,"Placa (PL)","Accidental",NA,1,1,1,0,"Esquí de muntanya",42.648235,0.946721
+"184",281,"10","12","2019","Vall de Gerber",3,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí de muntanya",42.617175,0.983828
+"185",282,"10","12","2019","Molières",3,"Placa (PL)","Accidental",NA,1,1,1,0,"Esquí de muntanya",42.629597,0.699121
+"186",448,"10","12","2019","Arcalís",3,"Placa (PL)","Accidental",2,5,2,0,0,"Esquí fora pista",42.6207283815208,1.48612659906561
+"187",273,"23","11","2019","Coll de la Marrana",3,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí de muntanya",42.417121,2.242709
+"188",76,"23","11","2021","Orreaga, collado de Lepoeder",-1,"Placa (PL)","Accidental",1,NA,1,0,0,"Esquí de muntanya",43.026147,-1.295783
+"189",90,"08","05","2021","Corredor Estasen, Aneto",-1,"Desconegut","Desconegut",NA,4,4,4,0,"Alpinisme",42.631477,0.65392
+"190",89,"05","05","2021","Taillon",-1,"Puntual (PU)","Natural",2,1,1,1,0,"Esquí de muntanya",42.693829,-0.050659
+"191",134,"18","04","2021","Pico Veleta",-1,"Placa (PL)","Accidental",2,2,1,0,0,"Esquí de muntanya",37.0535160217992,-3.36663823508853
+"192",439,"29","03","2021","Tristaina",1,"Placa (PL)","Accidental",2,16,1,0,0,"Esquí de muntanya",42.6421039300865,1.48097604574109
+"193",87,"20","03","2021","Locampo",2,"Placa (PL)","Accidental",1,3,2,1,0,"Esquí de muntanya",42.634442,0.982899
+"194",88,"20","03","2021","Cap del Muntanyó d'Àrreu",2,"Placa (PL)","Accidental",2,1,1,0,0,"Esquí de muntanya",42.681246,0.9952
+"195",85,"13","02","2021","Montjoia_Artiga de Lin",1,"Placa (PL)","Accidental",2,5,2,1,0,"Taula de muntanya",42.691699,0.681243
+"196",86,"13","02","2021","Tort de Rius",1,"Placa (PL)","Accidental",2,2,1,0,0,"Esquí de muntanya",42.626284,0.81153
+"197",83,"02","02","2021","Canal SW Prat del Duc inferior",1,"Placa (PL)","Accidental",1,1,1,0,0,"Esquí de muntanya",42.183321,1.527995
+"198",84,"02","02","2021","Canal SW Prat del Duc superior",1,"Placa (PL)","Accidental",1,1,1,0,0,"Esquí de muntanya",42.183458,1.527979
+"199",440,"02","02","2021","Port del Rat",3,"Placa (PL)","Accidental",1.5,8,3,0,0,"Esquí fora pista",42.62053890514,1.47565747887162
+"200",82,"31","01","2021","Estany-Mascarida",3,"Placa (PL)","Accidental",2,2,2,0,0,"Taula de muntanya",42.67002,1.195287
+"201",80,"26","01","2021","Estació d'esquí de Luz Ardiden (tancada)",3,"Placa (PL)","Desconegut",2,1,1,0,1,"Esquí de muntanya",42.883197,-0.064005
+"202",81,"26","01","2021","Tuc de Vacivèr",2,"Placa (PL)","Accidental",2,2,1,0,0,"Taula de muntanya",42.715963,0.992731
+"203",441,"26","01","2021","Forn de Sorteny",3,"Placa (PL)","Accidental",2,3,1,0,0,"Esquí de muntanya",42.6338342239433,1.58264197428954
+"204",442,"24","01","2021","Montmalús",3,"Placa (PL)","Accidental",2,9,2,0,0,"Esquí de muntanya",42.5092484076712,1.68844689621846
+"205",78,"16","01","2021","Maià",2,"Placa (PL)","Accidental",2,NA,1,0,0,"Moto de neu",42.547235,1.719812
+"206",79,"16","01","2021","Forn (Sorteny)",2,"Placa (PL)","Accidental",2,3,1,0,0,"Desconegut",42.633086,1.582688
+"207",443,"16","01","2021","Pic del Maià",3,"Placa (PL)","Accidental",2,1,1,0,0,"Moto de neu",42.5496659227588,1.7188133633706
+"208",77,"12","01","2021","Pic Blanc",1,"Placa (PL)","Accidental",NA,2,1,1,0,"Esquí de muntanya",42.52169,1.720662
+"209",444,"12","01","2021","Pic Blanc d'Envalira",2,"Placa (PL)","Accidental",2,2,1,0,0,"Esquí de muntanya",42.5203832280078,1.72017473783872
+"210",445,"11","01","2021","Forat dels Malhiverns",2,"Placa (PL)","Accidental",2,1,1,0,0,"Esquí de muntanya",42.5918265728163,1.45489308700472
+"211",75,"08","01","2021","Petrechema",1,"Placa (PL)","Accidental",1,2,1,0,0,"Esquí de muntanya",42.9017972,-0.7855578
+"212",73,"03","01","2021","Comes de Rubió",1,"Placa (PL)","Accidental",1,NA,1,0,0,"Esquí de muntanya",42.41173,1.217045
+"213",151,"23","04","2022","Pic de Piau",3,"Placa (PL)","Accidental",2,5,1,0,0,"Esquí de muntanya",42.7634294294141,0.148037473656988
+"214",149,"16","04","2022","Besiberri Nord",2,"Placa (PL)","Accidental",1.5,2,1,0,0,"Esquí de muntanya",42.6059790805946,0.829848807991929
+"215",141,"04","04","2022","Cap Vaquèira-Vinheta",3,"Placa (PL)","Accidental",2,3,1,0,1,"Esquí fora pista",42.695700281905,0.974698536153746
+"216",143,"04","04","2022","Olla del Bacivèr",3,"Placa (PL)","Accidental",2,4,3,1,0,"Taula fora pista",42.7136732376438,0.987875201786075
+"217",146,"03","04","2022","Pic Blanc",3,"Placa (PL)","Accidental",2,1,1,0,0,"Esquí fora pista",42.5256336196399,1.7244671076025
+"218",147,"03","04","2022","Coma del Forn",3,"Placa (PL)","Accidental",1.5,1,1,0,0,"Esquí de muntanya",42.6799351653572,1.19458515593549
+"219",148,"03","04","2022","Coma del Forn",3,"Placa (PL)","Accidental",1.5,1,1,0,0,"Esquí de muntanya",42.6799351653572,1.19458515593549
+"220",436,"03","04","2022","Pic Blanc",3,"Placa (PL)","Accidental",2,2,1,0,0,"Esquí fora pista",42.525032693561,1.72476199103062
+"221",142,"02","04","2022","Baciver - Paletes de la Reina",4,"Placa (PL)","Accidental",2,1,1,0,0,"Esquí fora pista",42.7161160589623,0.985805717913406
+"222",176,"01","04","2022","Hoyo sin tierra",2,"Placa (PL)","Accidental",NA,5,3,-1,0,"Esquí de muntanya",43.170496,-4.825373
+"223",144,"15","03","2022","Serra Seca",3,"Placa (PL)","Accidental",2,4,1,0,0,"Esquí de muntanya",42.5122853736047,1.70768820867104
+"224",145,"15","03","2022","Soldeu",3,"Placa (PL)","Accidental",3,2,2,0,0,"Taula fora pista",42.5494762302712,1.64830303905402
+"225",437,"15","03","2022","El Tarter",3,"Placa (PL)","Accidental",2,2,2,0,0,"Taula fora pista",42.550867295126,1.64762784074931
+"226",438,"15","03","2022","Pic de Serra Seca",3,"Placa (PL)","Accidental",1.5,4,1,0,0,"Esquí de muntanya",42.5169038097683,1.70216757047526
+"227",138,"11","03","2022","Bacivèr",2,"Puntual (PU)","Accidental",1,2,1,0,0,"Esquí fora pista",42.710128397595,0.985758925814331
+"228",140,"11","03","2022","Agulles Travessani",3,"Placa (PL)","Accidental",2,8,7,0,0,"Esquí de muntanya",42.6132910009904,0.886093318865884
+"229",139,"10","03","2022","Gavarnie",3,"Desconegut","Natural",2,2,1,0,1,"Alpinisme",42.6933658302488,-0.00872274668165529
+"230",136,"21","02","2022","Pic de Ratera",2,"Placa (PL)","Accidental",1,5,3,0,0,"Esquí de muntanya",42.597934447819,0.95536089166993
+"231",137,"21","02","2022","Pica Cervi de Durro",2,"Placa (PL)","Accidental",2,1,1,0,0,"Esquí fora pista",42.4623148652577,0.867287619125441
+"232",135,"16","01","2022","Saslosses (Val d'Aran)",2,"Placa (PL)","Accidental",1,2,1,0,0,"Esquí de muntanya",42.63466,0.895809
+"233",133,"03","12","2021","Bc. de Astún",3,"Placa (PL)","Accidental",2,2,1,0,-1,"Esquí de muntanya",42.8104736340661,-0.499782343403072
+"234",132,"28","11","2021","Roques Blanques-Pic de la Dona",3,"Placa (PL)","Desconegut",2.5,1,1,-1,1,"Alpinisme",42.4304915483218,2.2677345868399
+"235",124,"25","11","2021","Puigmal",3,"Placa (PL)","Accidental",2,2,1,0,0,"Esquí de muntanya",42.3875360845881,2.10866979333546
+"236",392,"04","03","2023","Pico Arriel",3,"Placa (PL)","Accidental",NA,4,1,1,0,"Desconegut",42.834534597957,-0.331634490260742
+"237",394,"02","03","2023","Pic de l'Hortell",2,"Placa (PL)","Accidental",2,3,1,0,0,"Esquí fora pista",42.6220862787094,1.50963682148668
+"238",393,"27","02","2023","Vulturó",2,"Placa (PL)","Accidental",1.5,NA,1,0,0,"Esquí de muntanya",42.1821741057811,1.5259953131724
+"239",389,"26","02","2023","Cambra d'Ase",3,"Placa (PL)","Accidental",NA,2,1,0,0,"Esquí de muntanya",42.4523096407252,2.13045593997398
+"240",391,"26","02","2023","Gra de Fajol",3,"Desconegut (null)","Accidental",2.5,2,2,1,0,"Alpinisme",42.4169146141823,2.25322955143851
+"241",383,"25","02","2023","Tuc de la Cigalera",3,"Placa (PL)","Accidental",1,2,1,0,0,"Esquí de muntanya",42.6725876885289,0.994252448682436
+"242",384,"25","02","2023","Pico Brazato",3,"Placa (PL)","Accidental",2,3,1,0,0,"Esquí de muntanya",42.7423827644436,-0.202828728741036
+"243",385,"25","02","2023","Pico Foratula",3,"Placa (PL)","Accidental",2,1,1,0,0,"Esquí de muntanya",42.7440058988326,-0.227406818986386
+"244",387,"25","02","2023","Pic de la Mina",4,"Placa (PL)","Accidental",NA,3,2,1,0,"Esquí de muntanya",42.5331605197668,1.7705577434398
+"245",390,"25","02","2023","Pic Saint André",3,"Desconegut (null)","Accidental",NA,3,3,1,0,"Esquí de muntanya",42.7190203387166,-0.0656377445796519
+"246",388,"24","02","2023","Pic de la Mina",3,"Placa (PL)","Accidental",2,3,1,0,0,"Esquí de muntanya",42.5442278428444,1.76795295480317
+"247",382,"19","02","2023","Picón de Jeres",-1,"Placa (PL)","Accidental",2,2,2,0,0,"Alpinisme",37.1163208579085,-3.24551149973301
+"248",381,"18","02","2023","Picón de Jeres",-1,"Placa (PL)","Accidental",2,2,2,2,0,"Alpinisme",37.1157390950434,-3.24223112860703
+"249",379,"15","02","2023","Saslòses (Val d'Aran)",2,"Placa (PL)","Accidental",2,2,1,0,0,"Esquí de muntanya",42.635685,0.89708
+"250",378,"28","01","2023","Bachimaña",3,"Placa (PL)","Accidental",2,9,2,0,0,"Esquí de muntanya",42.7777222741555,-0.227077164724359
+"251",435,"24","01","2023","Pic de l'Hortell",3,"Placa (PL)","Accidental",2,2,1,0,0,"Esquí de muntanya",42.6206178537021,1.50592053709478
+"252",377,"20","01","2023","Bonaigua",3,"Placa (PL)","Accidental",2,2,1,0,0,"Esquí fora pista",42.6580027784926,0.983096986592442
+"253",376,"18","01","2023","Cap de Vaqueira",3,"Placa (PL)","Accidental",2,2,2,2,0,"Esquí fora pista",42.6960205983104,0.972254955401124
+"254",374,"10","01","2023","Peña Santa de Castilla",-1,"Placa (PL)","Accidental",NA,2,1,0,0,"Alpinisme",43.2037368611273,-4.96047790911666
+"255",375,"10","01","2023","Campirme",2,"Placa (PL)","Accidental",2.5,6,1,0,-1,"Esquí de muntanya",42.6668234697054,1.18850469551825
+"256",373,"19","12","2022","Pico de Argualas",2,"Placa (PL)","Accidental",NA,6,1,0,0,"Esquí de muntanya",42.7651526566296,-0.262766288398053
+"257",371,"18","12","2022","Salvaguardia, canal W",2,"Placa (PL)","Accidental",1,1,1,0,0,"Alpinisme",42.695826094185,0.629442693170685
+"258",395,"12","12","2022","Port Vell",-1,"Placa (PL)","Accidental",NA,1,1,0,0,"Esquí de muntanya",42.5719349745304,1.44339758239019
+"259",370,"30","11","2022","Cap des Clòsos",2,"Placa (PL)","Accidental",NA,4,1,0,0,"Esquí de muntanya",42.7479576226407,0.933766701753283
+"260",369,"29","11","2022","Escornacrabes",2,"Placa (PL)","Accidental",NA,2,2,0,0,"Esquí fora pista",42.692892691691,0.977031232445396
+"261",428,"08","05","2024","Pique Longue du Vignemale",2,"Placa (PL)","Accidental",1,2,2,0,0,"Esquí de muntanya",42.773469,-0.145678
+"262",411,"03","05","2024","Aneto",3,"Placa (PL)","Accidental",2,NA,1,0,0,"Esquí de muntanya",42.635868,0.657636
+"263",427,"28","03","2024","Colouir N Pic de Font Freda",3,"Placa (PL)","Accidental",NA,2,1,1,0,"Esquí de muntanya",42.538899,1.793667
+"264",409,"25","03","2024","Tuca de Literola",3,"Placa (PL)","Accidental",2,2,1,1,0,"Esquí de muntanya",42.67783,0.561747
+"265",418,"24","03","2024","Torrent de la Balma",2,"Placa (PL)","Natural",1,1,1,0,1,"Excursionisme",42.3850874404816,2.19073139021129
+"266",406,"10","03","2024","Pic de la Mine",3,"Placa (PL)","Accidental",NA,4,3,0,0,"Esquí de muntanya",42.531146,1.765743
+"267",416,"09","03","2024","Astún. Pastores",3,"Placa (PL)","Accidental",2,3,3,0,0,"Esquí de pista",42.803318,-0.507407
+"268",408,"05","03","2024","Pic de l'Estanyó",3,"Placa (PL)","Accidental",2.5,13,5,0,0,"Esquí de muntanya",42.611380192639,1.58673086508257
+"269",405,"28","02","2024","Pic du Midi",4,"Placa (PL)","Accidental",2,1,1,1,0,"Taula de muntanya",42.933397,0.134231
+"270",413,"28","02","2024","Astún. Llanos del Sol",3,"Placa (PL)","Accidental",2,2,1,0,0,"Esquí de pista",42.816933,-0.50197
+"271",415,"28","02","2024","Astún. Llanos del Sol",3,"Placa (PL)","Accidental",2,3,3,0,0,"Esquí de pista",42.816933,-0.50197
+"272",417,"28","02","2024","Arcalís",3,"Placa (PL)","Accidental",2,2,1,1,0,"Esquí fora pista",42.6273281155936,1.4883170899867
+"273",402,"11","02","2024","Tuc Gran de Sendrosa",2,"Placa (PL)","Accidental",1,2,1,1,0,"Esquí de muntanya",42.6232845025593,0.945482535070257
+"274",401,"13","01","2024","Pico Aspe",3,"Placa (PL)","Accidental",1,2,2,0,1,"Alpinisme",42.763861,-0.56511
+"275",400,"09","01","2024","Baser Negre",2,"Placa (PL)","Accidental",1.5,2,1,0,0,"Taula de muntanya",42.6310539722271,1.47497880107446
+"276",399,"08","01","2024","Malh Blanc de Tredòs",3,"Placa (PL)","Accidental",2,5,1,1,0,"Esquí de muntanya",42.65654133722,0.945806909251492
+"277",412,"06","01","2024","Astún. Malacara",2,"Placa (PL)","Desconegut",1,2,2,0,0,"Esquí de pista",42.808845,-0.486794
+"278",398,"07","12","2023","Refugi Sarradets",2,"Placa (PL)","Accidental",1.5,1,1,0,0,"Esquí de muntanya",42.7006044080808,-0.0504684448242188
+"279",396,"03","12","2023","Ref Pòrt de Vénasque",2,"Placa (PL)","Desconegut",NA,2,2,0,0,"Raquetes",42.7043685672529,0.647428900962228
+"280",397,"03","12","2023","Midi de Bigorra",2,"Puntual (PU)","Accidental",2,5,1,1,0,"Esquí de muntanya",42.932738,0.130613
